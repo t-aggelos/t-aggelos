@@ -6,8 +6,8 @@
 - ### Learning
     - Learning `node.js`
     - Learning `angular.js`
-    - Learning in `WebGL`
-    - Learning Java ♨️, and C
+    - Learning `WebGL`
+    - Learning Java ♨️, and C/C++
 - ### Skillset
     - Experienced in JavaScript.
     
