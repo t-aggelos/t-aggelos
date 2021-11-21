@@ -8,5 +8,6 @@
 - ### Skillset
     - Experienced in JavaScript.
     
-For the most part, I just make  fun projects to challenge my programming abilities.
-**Additionally**, *you can reach out to me through Discord(For the time being) at `t.aggelos#3429`*
+- ### Let's get in touch.
+    -  Discord: `t.aggelos#3429`
+    -  E-mail: `t.aggelos@protonmail.com`
