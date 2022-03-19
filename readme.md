@@ -1,13 +1,18 @@
 # Angelos Toumanidis
-- ###  Self-taught programmer ☕.
-- ### **Working**
-    - on `js-engine`, a javascript video game library for an upcoming multiplayer game
-    - on HTML5 games. Specifically, RPG/MMO type video games.
-- ### Learning
-    - Learning `node.js` and `Angular.js`
-- ### Skillset
-    - Experienced in JavaScript.
-    
-- ### Let's get in touch.
-    -  Discord: `t.aggelos#3429`
-    -  E-mail: `t.aggelos@protonmail.com`
+
+##  Self-taught programmer ☕.
+### Working  on...
+ - ` My personal website!`
+
+### Learning
+ - Learning `node.js` and `React + React Native`
+
+### Skills
+- Experienced in JavaScript and Node.js
+
+### Let's get in touch.
+> *I recently moved from Discord to matrix due to the privacy concerns that Discord imposes to it's users.  Find me at:* : `@t.aggelos:matrix.org`
+
+- E-mail: `t.aggelos@protonmail.com`
+
+# I'm taking a break due to school. I'll be back in August 2022.
